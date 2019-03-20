@@ -33,4 +33,4 @@ test-output
 # switch to regexp syntax.
 #  syntax: regexp
 #  ^\.pc/
-
+bin
