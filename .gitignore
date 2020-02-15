@@ -16,6 +16,9 @@ syntax: glob
 # intellij
 .idea/workspace.xml
 
+*.idea
+*.iml
+
 # building
 target
 build
